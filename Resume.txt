@@ -3,3 +3,7 @@ Qualification: ACCP in Sofotware Engineering
 Skills:
 1. ASP.NET MVC 5
 2. AngularJS
+3. HTML 5
+4. CSS 3
+5. JavaScript
+6. jQuery
