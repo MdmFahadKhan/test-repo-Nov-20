@@ -1,0 +1,4 @@
+Name: Fahad Khan
+Qualification: ACCP in Sofotware Engineering
+Skills:
+1. ASP.NET MVC 5
